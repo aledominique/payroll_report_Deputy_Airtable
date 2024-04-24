@@ -7,3 +7,6 @@
 * [Methodology](#Methodology)
 * [Results](#results)
 * [Upgrates](#upgrates)
+
+## Introduction
+[Deputy](https://www.deputy.com/): cloud-based workforce management and scheduling platform designed to help companies organize, track, and manage their teams. 
