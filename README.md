@@ -21,3 +21,7 @@ To facilitate report exportation, the timesheet offers various options for selec
 ![image](https://github.com/aledominique/payroll_report_Deputy_Airtable/assets/93596082/a9f8cf5b-e946-4e8a-904f-553a681cd0e7)
 ![image](https://github.com/aledominique/payroll_report_Deputy_Airtable/assets/93596082/658ef8a7-2352-4164-b58f-12307b926548)
 
+## Methodology 
+First, lets have a look in the format of the .cvs file from Deputy: 
+
+![Deputy file](./Photos/Payroll_Deputy_Report.png)
