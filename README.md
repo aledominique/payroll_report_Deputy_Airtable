@@ -25,3 +25,19 @@ To facilitate report exportation, the timesheet offers various options for selec
 First, lets have a look in the format of the .cvs file from Deputy: 
 
 ![Deputy file](./Photos/Payroll_Deputy_Report.png)
+A brief explanation of each column:
+* Column A: The employee's export code, the internal identification code of each employee. 
+* Column B: The employee's name. 
+* Column C: The date of the shift. 
+* Column D: The time when the shift started.
+* Column E: The time when the shift ended.
+* Column F: The amount of time that the employee spent in mealbreak.
+* Column G: Total paid hours, counting from start (Column D) to end (Column E) without the time in the mealbreak (Column F).
+* Column H: Total cost, using the data of the amount of euros per hour, you can get the result in euros.
+* Column I, Column J, Column K: Columns just to indentify the stores internally. 
+* Column L: Code of the store, also an internal ID.
+* Column M: Internal ID for the location of the store.
+* Column N: Type of leave, for example, vacation and sick leave. 
+* Column O: Comments from the manager 
+* Column P: Employee's first name.
+* Column Q: Employee's last name. 
