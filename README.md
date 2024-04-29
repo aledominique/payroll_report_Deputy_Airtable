@@ -40,4 +40,8 @@ A brief explanation of each column:
 * Column N: Type of leave, for example, vacation and sick leave. 
 * Column O: Comments from the manager 
 * Column P: Employee's first name.
-* Column Q: Employee's last name. 
+* Column Q: Employee's last name.
+
+  Using Python code lets first sorted out the data, between worked hours, sick hours and vacations, as they need to be paid but correctly separeted when you are getting pay with a hourly wage. 
+
+![Deputy file](./Photos/Deputy_Code_1.png)
